@@ -53,7 +53,7 @@
 ### 📊 GitHub Stats (Because Data Talks 😉)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Halfgods&theme=radical&show_icons=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Halfgods&theme=radical" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halfgods&layout=compact&theme=radical" />
 </p>
 ---
