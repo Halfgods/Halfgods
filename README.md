@@ -2,19 +2,18 @@
 <h3 align="center" style="color:#2978B5;">🚀 GenAI + CV Enthusiast | 🧠 Learner. Builder. Dreamer. | 🌍 India</h3>
 
 <p align="center">
-  <em style="color: #b0b0b0;">2nd-year Engineering Student @ Fr. CRCE • Crafting creative,Computer Vision AI tools that stand out from the crowd.</em>
+  <em style="color: #b0b0b0;">2nd-year Engineering Student @ Fr. CRCE • Crafting creative, Computer Vision + AI tools that stand out from the crowd.</em>
 </p>
 
 ---
 
 ### 💫 About Me  
-- 🎯 On a journey to learn **GenAI**, **Computer Vision**, and **Robotics** with interest
+- 🎯 On a journey to master **GenAI**, **Computer Vision**, and **Robotics**  
 - 🧪 I validate every new concept through **mini-projects and experiments**  
-- 🛠️ Diving deep into: **OpenCV**, **Mediapipe**, **PyTorch**, **TensorFlow**  
-- 💭 I love seeing the results quick
+- 🛠️ Currently diving deep into: **OpenCV**, **Mediapipe**, **PyTorch**, **TensorFlow**  
 - ⚒️ Motto: *Don’t just build apps, build experiences that matter*  
-- 💌 Let’s talk! → **justinroy9702@gmail.com**  
-- 🧝 Fun Fact: *Halfgods* is my Minecraft name—but now, it’s my **brand** ✨
+- 💌 Reach me at: **justinroy9702@gmail.com**  
+- 🧝 Fun Fact: *Halfgods* started as my Minecraft name—now it’s my **brand** ✨
 
 ---
 
@@ -41,17 +40,18 @@
 
 ### 🛠️ Projects in Progress  
 - 👁️‍🗨️ **CV Projects** — Face detection, gesture recognition, image filters  
-- 📊 **Analytics Tools** — Data viz dashboards with Seaborn + Pandas  
+- 📊 **Analytics Tools** — Data visualization dashboards with Seaborn + Pandas  
 - 🧪 **Learning Engines** — Streamlit-based AI micro-tools to test models live  
 - 🧠 Dreaming up ideas that aren’t clones—they’re **Halfgods originals** 💡
 
 ---
-### 📊 GitHub Stats (Because Data Talks 😉)
 
+### 📊 GitHub Stats  
 [![Halfgods's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Halfgods&show_icons=true&theme=transparent&hide_border=true&border_radius=12&include_all_commits=true&count_private=true)](https://github.com/Halfgods)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halfgods&layout=compact&theme=transparent&hide_border=true&border_radius=12)](https://github.com/Halfgods)
 
+---
 
 ### ✍️ Words That Keep Me Going  
 <p align="center">
@@ -71,7 +71,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&weight=700&pause=1000&color=1E90FF&center=true&vCenter=true&width=550&lines=Keep+building...;Keep+learning...;Keep+being+you+💙+By+Halfgods+=)" />
 </p>
 
-
 <!--
-Crafted with ❤️ by Justin Roy | Didi-approved 🫶 | Inspired by the grind, powered by curiosity.
+Crafted with ❤️ by Justin Roy | Inspired by the grind, powered by curiosity.
 -->
