@@ -46,12 +46,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-[![Halfgods's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Halfgods&show_icons=true&theme=transparent&hide_border=true&border_radius=12&include_all_commits=true&count_private=true)](https://github.com/Halfgods)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halfgods&layout=compact&theme=transparent&hide_border=true&border_radius=12)](https://github.com/Halfgods)
-
----
 
 ### ✍️ Words That Keep Me Going  
 <p align="center">
