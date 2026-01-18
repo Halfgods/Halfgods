@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2F5C&height=280&section=header&text=Hi%20👋,%20I'm%20Justin%20Roy&fontSize=80&fontAlignY=35&desc=aka%20Halfgods%20%7C%20GenAI%20+%20CV%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8DABCE&height=280&section=header&text=Hi%20,%20I'm%20Justin%20Roy&fontSize=80&fontAlignY=35&desc=aka%20Halfgods%20%7C%20GenAI%20+%20CV%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" />
 <h3 align="center" style="color:#2978B5;">🚀 GenAI + CV Enthusiast | 🧠 Learner. Builder. Dreamer. | 🌍 India</h3>
 
 <p align="center">
